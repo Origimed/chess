@@ -1,0 +1,250 @@
+2025-01-11 09:51:55,753 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 09:51:56,708 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:00:03,086 [INFO] Using device: cpu
+2025-01-11 10:00:08,445 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:00:09,324 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:01:38,582 [INFO] Using device: cpu
+2025-01-11 10:01:40,353 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:01:41,238 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:04:02,457 [INFO] Using device: cpu
+2025-01-11 10:04:08,795 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:04:09,677 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:10:21,931 [INFO] Using device: cuda
+2025-01-11 10:10:21,931 [INFO] Number of GPUs available: 1
+2025-01-11 10:10:28,463 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:10:29,042 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:17:28,163 [INFO] Partida 2 completada con resultado 1/2-1/2
+2025-01-11 10:26:57,427 [INFO] Partida 1 completada con resultado 1/2-1/2
+2025-01-11 10:26:58,221 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 569
+2025-01-11 10:30:54,324 [INFO] Partida 3 completada con resultado 0-1
+2025-01-11 10:36:54,585 [INFO] Using device: cuda
+2025-01-11 10:36:54,586 [INFO] Number of GPUs available: 1
+2025-01-11 10:36:56,514 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:36:57,102 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:39:06,540 [INFO] Partida 2 completada con resultado 1/2-1/2
+2025-01-11 10:39:52,105 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 10:39:52,107 [INFO] Partida 1 completada con resultado *
+2025-01-11 10:39:52,416 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 319
+2025-01-11 10:41:19,549 [INFO] Partida 3 completada con resultado 0-1
+2025-01-11 10:43:18,450 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 10:43:18,450 [INFO] Partida 4 completada con resultado *
+2025-01-11 10:43:18,792 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 605
+2025-01-11 10:44:57,120 [INFO] Partida 5 completada con resultado 1/2-1/2
+2025-01-11 10:46:13,140 [INFO] Partida 6 completada con resultado 1/2-1/2
+2025-01-11 10:46:13,445 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 893
+2025-01-11 10:47:18,280 [INFO] Using device: cuda
+2025-01-11 10:47:18,280 [INFO] Number of GPUs available: 1
+2025-01-11 10:47:19,892 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:47:20,444 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:48:42,891 [INFO] Partida 1 completada con resultado 1/2-1/2
+2025-01-11 10:49:30,911 [INFO] Partida 2 completada con resultado 1/2-1/2
+2025-01-11 10:49:31,205 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 222
+2025-01-11 10:50:40,043 [INFO] Partida 3 completada con resultado 1-0
+2025-01-11 10:51:04,112 [INFO] Partida 4 completada con resultado 1/2-1/2
+2025-01-11 10:51:04,308 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 384
+2025-01-11 10:54:31,296 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 10:54:31,296 [INFO] Partida 5 completada con resultado *
+2025-01-11 10:54:47,823 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 10:54:47,823 [INFO] Partida 6 completada con resultado *
+2025-01-11 10:54:48,391 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 784
+2025-01-11 10:58:02,166 [INFO] Using device: cuda
+2025-01-11 10:58:02,166 [INFO] Number of GPUs available: 1
+2025-01-11 10:58:04,130 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 10:58:04,673 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:00:52,749 [INFO] Using device: cuda
+2025-01-11 11:00:52,749 [INFO] Number of GPUs available: 1
+2025-01-11 11:00:54,319 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:00:54,834 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:00:56,870 [ERROR] Ocurrió un error inesperado: cannot access local variable 'mcts_simulations' where it is not associated with a value
+2025-01-11 11:00:57,772 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 11:00:57,772 [INFO] Inicio del entrenamiento desde archivo PGN.
+2025-01-11 11:00:57,772 [ERROR] Ocurrió un error inesperado: [Errno 2] No such file or directory: 'ficsgamesdb_2023_standard2000_nomovetimes_405781.pgn'
+2025-01-11 11:00:58,339 [INFO] Modelo guardado debido a un error.
+2025-01-11 11:02:14,470 [INFO] Using device: cuda
+2025-01-11 11:02:14,470 [INFO] Number of GPUs available: 1
+2025-01-11 11:02:16,034 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:02:16,575 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:03:14,205 [INFO] Partida 2 completada con resultado 1-0
+2025-01-11 11:03:36,116 [INFO] Partida 1 completada con resultado 0-1
+2025-01-11 11:03:36,247 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 101
+2025-01-11 11:05:55,267 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:05:55,267 [INFO] Partida 4 completada con resultado *
+2025-01-11 11:06:38,835 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:06:38,835 [INFO] Partida 3 completada con resultado *
+2025-01-11 11:06:39,222 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 501
+2025-01-11 11:08:16,343 [INFO] Partida 5 completada con resultado 1/2-1/2
+2025-01-11 11:08:54,961 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:08:54,961 [INFO] Partida 6 completada con resultado *
+2025-01-11 11:08:55,411 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 815
+2025-01-11 11:10:34,619 [INFO] Partida 7 completada con resultado 1/2-1/2
+2025-01-11 11:11:02,650 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:11:02,650 [INFO] Partida 8 completada con resultado *
+2025-01-11 11:11:02,953 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 1137
+2025-01-11 11:11:28,572 [INFO] Partida 9 completada con resultado 1/2-1/2
+2025-01-11 11:12:59,379 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:12:59,379 [INFO] Partida 10 completada con resultado *
+2025-01-11 11:12:59,667 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 1373
+2025-01-11 11:13:06,097 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 11:13:06,101 [INFO] Inicio del entrenamiento desde archivo PGN.
+2025-01-11 11:13:06,101 [ERROR] Ocurrió un error inesperado: [Errno 2] No such file or directory: 'ficsgamesdb_2023_standard2000_nomovetimes_405781.pgn'
+2025-01-11 11:13:06,744 [INFO] Modelo guardado debido a un error.
+2025-01-11 11:13:14,942 [INFO] Using device: cuda
+2025-01-11 11:13:14,942 [INFO] Number of GPUs available: 1
+2025-01-11 11:13:16,572 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:13:17,072 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:13:27,655 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:13:27,656 [INFO] Partida 1 completada con resultado *
+2025-01-11 11:13:40,054 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:13:40,055 [INFO] Partida 2 completada con resultado *
+2025-01-11 11:13:40,668 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 400
+2025-01-11 11:13:55,136 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:13:55,136 [INFO] Partida 3 completada con resultado *
+2025-01-11 11:14:03,421 [INFO] Partida 4 completada con resultado 0-1
+2025-01-11 11:14:03,976 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 780
+2025-01-11 11:14:19,193 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:14:19,193 [INFO] Partida 5 completada con resultado *
+2025-01-11 11:14:35,021 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:14:35,021 [INFO] Partida 6 completada con resultado *
+2025-01-11 11:14:35,684 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 1180
+2025-01-11 11:14:42,656 [INFO] Partida 8 completada con resultado 1-0
+2025-01-11 11:15:01,882 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:15:01,882 [INFO] Partida 7 completada con resultado *
+2025-01-11 11:15:02,171 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 1389
+2025-01-11 11:15:05,858 [INFO] Partida 9 completada con resultado 1-0
+2025-01-11 11:15:16,471 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:15:16,471 [INFO] Partida 10 completada con resultado *
+2025-01-11 11:15:17,165 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 1604
+2025-01-11 11:15:18,651 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 11:15:18,651 [INFO] Inicio del entrenamiento desde archivo PGN.
+2025-01-11 11:15:18,651 [ERROR] Ocurrió un error inesperado: [Errno 2] No such file or directory: 'ficsgamesdb_2023_standard2000_nomovetimes_405781.pgn'
+2025-01-11 11:15:19,309 [INFO] Modelo guardado debido a un error.
+2025-01-11 11:16:12,381 [INFO] Using device: cuda
+2025-01-11 11:16:12,397 [INFO] Number of GPUs available: 1
+2025-01-11 11:16:13,940 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:16:14,468 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:16:20,661 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:16:20,661 [INFO] Partida 1 completada con resultado *
+2025-01-11 11:16:41,394 [INFO] Partida 2 completada con resultado 1-0
+2025-01-11 11:16:41,805 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 293
+2025-01-11 11:16:53,926 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:16:53,926 [INFO] Partida 3 completada con resultado *
+2025-01-11 11:17:03,483 [INFO] Partida 4 completada con resultado 0-1
+2025-01-11 11:17:04,216 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 673
+2025-01-11 11:17:14,099 [INFO] Partida 5 completada con resultado 1-0
+2025-01-11 11:17:28,665 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:17:28,665 [INFO] Partida 6 completada con resultado *
+2025-01-11 11:17:29,279 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 980
+2025-01-11 11:17:41,930 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:17:41,933 [INFO] Partida 8 completada con resultado *
+2025-01-11 11:17:43,934 [INFO] Partida 7 completada con resultado 1-0
+2025-01-11 11:17:44,666 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 1349
+2025-01-11 11:18:03,918 [INFO] Partida 10 completada con resultado 1-0
+2025-01-11 11:18:04,159 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:18:04,159 [INFO] Partida 9 completada con resultado *
+2025-01-11 11:18:04,698 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 1710
+2025-01-11 11:18:12,538 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:18:12,538 [INFO] Partida 11 completada con resultado *
+2025-01-11 11:18:14,928 [INFO] Partida 12 completada con resultado 1-0
+2025-01-11 11:18:15,266 [INFO] Episodios 11 a 12 procesados. Replay Buffer actual: 1949
+2025-01-11 11:18:26,317 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:18:26,318 [INFO] Partida 13 completada con resultado *
+2025-01-11 11:21:59,364 [INFO] Using device: cuda
+2025-01-11 11:21:59,364 [INFO] Number of GPUs available: 1
+2025-01-11 11:22:00,948 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:22:01,470 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:23:03,664 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 60
+2025-01-11 11:23:54,982 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 104
+2025-01-11 11:24:56,179 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 164
+2025-01-11 11:25:55,790 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 224
+2025-01-11 11:26:45,832 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 265
+2025-01-11 11:26:48,154 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 11:26:48,155 [INFO] Inicio del entrenamiento desde archivo PGN.
+2025-01-11 11:26:48,156 [ERROR] Ocurrió un error inesperado: [Errno 2] No such file or directory: 'ficsgamesdb_2023_standard2000_nomovetimes_405781.pgn'
+2025-01-11 11:26:48,741 [INFO] Modelo guardado debido a un error.
+2025-01-11 11:27:39,753 [INFO] Using device: cuda
+2025-01-11 11:27:39,754 [INFO] Number of GPUs available: 1
+2025-01-11 11:27:41,331 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:27:41,854 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:30:17,053 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 237
+2025-01-11 11:32:33,156 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:32:33,476 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 573
+2025-01-11 11:34:06,718 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 741
+2025-01-11 11:36:24,947 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:36:25,298 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 1111
+2025-01-11 11:39:20,770 [INFO] Using device: cuda
+2025-01-11 11:39:20,770 [INFO] Number of GPUs available: 1
+2025-01-11 11:39:22,385 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:39:22,974 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 11:43:34,079 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 215
+2025-01-11 11:46:15,506 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 335
+2025-01-11 11:49:10,017 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 468
+2025-01-11 11:51:06,339 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 581
+2025-01-11 11:58:03,819 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 11:58:04,213 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 838
+2025-01-11 11:58:26,004 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 11:58:26,015 [INFO] Inicio del entrenamiento desde archivo PGN.
+2025-01-11 11:58:26,016 [ERROR] Ocurrió un error inesperado: [Errno 2] No such file or directory: 'ficsgamesdb_2023_standard2000_nomovetimes_405781.pgn'
+2025-01-11 11:58:26,661 [INFO] Modelo guardado debido a un error.
+2025-01-11 12:15:44,467 [INFO] Using device: cuda
+2025-01-11 12:15:44,468 [INFO] Number of GPUs available: 1
+2025-01-11 12:15:50,926 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 12:15:51,592 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 12:21:21,971 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 12:21:22,327 [INFO] Episodios 1 a 2 procesados. Replay Buffer actual: 292
+2025-01-11 12:25:43,076 [INFO] Episodios 3 a 4 procesados. Replay Buffer actual: 445
+2025-01-11 12:29:10,874 [INFO] Episodios 5 a 6 procesados. Replay Buffer actual: 591
+2025-01-11 12:32:06,852 [INFO] Episodios 7 a 8 procesados. Replay Buffer actual: 741
+2025-01-11 12:37:40,676 [INFO] Episodios 9 a 10 procesados. Replay Buffer actual: 989
+2025-01-11 12:43:59,824 [INFO] Episodios 11 a 12 procesados. Replay Buffer actual: 1350
+2025-01-11 12:46:41,609 [INFO] Episodios 13 a 14 procesados. Replay Buffer actual: 1437
+2025-01-11 12:49:26,621 [INFO] Episodios 15 a 16 procesados. Replay Buffer actual: 1589
+2025-01-11 12:55:33,520 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 12:55:33,779 [INFO] Episodios 17 a 18 procesados. Replay Buffer actual: 1850
+2025-01-11 13:01:38,463 [INFO] Episodios 19 a 20 procesados. Replay Buffer actual: 2155
+2025-01-11 13:05:21,025 [INFO] Episodios 21 a 22 procesados. Replay Buffer actual: 2312
+2025-01-11 13:06:49,710 [INFO] Episodios 23 a 24 procesados. Replay Buffer actual: 2374
+2025-01-11 13:09:14,006 [INFO] Episodios 25 a 26 procesados. Replay Buffer actual: 2481
+2025-01-11 13:11:21,323 [INFO] Episodios 27 a 28 procesados. Replay Buffer actual: 2559
+2025-01-11 13:12:22,778 [INFO] Using device: cuda
+2025-01-11 13:12:22,778 [INFO] Number of GPUs available: 1
+2025-01-11 13:12:24,573 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:12:25,109 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:17:06,125 [ERROR] Ocurrió un error inesperado: 'collections.deque' object has no attribute 'add'
+2025-01-11 13:17:15,401 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 13:21:59,229 [INFO] Using device: cuda
+2025-01-11 13:21:59,229 [INFO] Number of GPUs available: 1
+2025-01-11 13:22:00,799 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:22:01,315 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:25:37,937 [ERROR] Ocurrió un error inesperado: 'collections.deque' object has no attribute 'add'
+2025-01-11 13:25:45,659 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 13:27:30,434 [INFO] Using device: cuda
+2025-01-11 13:27:30,434 [INFO] Number of GPUs available: 1
+2025-01-11 13:27:31,971 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:27:32,488 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:27:34,730 [ERROR] Ocurrió un error inesperado: name 'MCTSNode' is not defined
+2025-01-11 13:27:35,646 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 13:27:47,351 [INFO] Using device: cuda
+2025-01-11 13:27:47,352 [INFO] Number of GPUs available: 1
+2025-01-11 13:27:48,854 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:27:49,371 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:27:51,512 [ERROR] Ocurrió un error inesperado: name 'MCTSNode' is not defined
+2025-01-11 13:27:52,443 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 13:30:50,681 [INFO] Using device: cuda
+2025-01-11 13:30:50,682 [INFO] Number of GPUs available: 1
+2025-01-11 13:30:52,226 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:30:52,766 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:30:57,314 [ERROR] Ocurrió un error inesperado: name 'replay_buffer' is not defined
+2025-01-11 13:30:58,228 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
+2025-01-11 13:35:49,784 [INFO] Using device: cuda
+2025-01-11 13:35:49,784 [INFO] Number of GPUs available: 1
+2025-01-11 13:35:51,479 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:35:52,017 [INFO] Pesos cargados desde chess_model.pth
+2025-01-11 13:41:12,913 [INFO] Episodios 1 a 3 procesados. Replay Buffer actual: 257
+2025-01-11 13:47:41,092 [INFO] Partida excede 200 jugadas. Se declara tablas.
+2025-01-11 13:47:41,454 [INFO] Episodios 4 a 6 procesados. Replay Buffer actual: 539
+2025-01-11 13:54:49,509 [INFO] Episodios 7 a 9 procesados. Replay Buffer actual: 890
+2025-01-11 13:59:49,435 [INFO] Episodios 10 a 12 procesados. Replay Buffer actual: 1133
+2025-01-11 14:03:34,129 [INFO] Episodios 13 a 15 procesados. Replay Buffer actual: 1339
+2025-01-11 14:10:36,540 [INFO] Episodios 16 a 18 procesados. Replay Buffer actual: 1725
+2025-01-11 14:14:58,098 [INFO] Episodios 19 a 20 procesados. Replay Buffer actual: 1935
+2025-01-11 14:15:29,878 [INFO] Entrenamiento finalizado. Modelo guardado como chess_model.pth
